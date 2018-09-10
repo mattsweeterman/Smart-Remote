@@ -29,7 +29,7 @@ The network I used for this project is WiFi. I used it because it is one of the 
 
 GitHub Repository
 
-https://github.com/sweetermanm/Smart-Remote-Using-Raspberry-Pi
+https://github.com/sweetermanm/Smart-Remote
 
 WebServer Link
 
@@ -41,4 +41,4 @@ https://www.youtube.com/watch?v=wd-og7Rl1zo
 
 Blog Post with detailed instructions on how to implement on you own
 
-Coming Soon!
+https://www.hackster.io/msweeterman24/make-a-smart-remote-on-your-smartphone-using-a-raspberry-pi-3d40c9

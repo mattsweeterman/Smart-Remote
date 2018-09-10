@@ -63,3 +63,4 @@ wemo.discover(function(err, deviceInfo) {
   });
 
 });
+
